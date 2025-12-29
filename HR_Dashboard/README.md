@@ -24,6 +24,7 @@ This dashboard analyzes employee data to understand attrition patterns, workforc
 - Workforce is concentrated in specific age groups
   
 📷 Dashboard Preview
+![HR Dashboard](HR Dashboard.png)
 
 🔗 Tableau Public Link
 https://public.tableau.com/app/profile/t.prathyusha.reddy/vizzes

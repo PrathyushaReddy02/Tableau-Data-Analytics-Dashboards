@@ -1,30 +1,34 @@
-📊 Sales Performance Dashboard (Tableau)
+# 📊 Sales Performance Dashboard (Tableau)
 
-🔍 Project Overview
+## 🔍 Project Overview
 This dashboard analyzes sales performance across regions, product categories, and time periods to uncover business insights.
 
-🎯 Business Objectives
+## 🎯 Business Objectives
 - Track overall sales and profit performance
 - Identify top-performing regions and categories
 - Analyze monthly and yearly sales trends
 
-📈 Key Metrics
+## 📈 Key Metrics
 - Total Sales
 - Total Profit
 - Profit Ratio
 - Sales Trend
 
-🛠 Tools Used
+## 🛠 Tools Used
 - Tableau
 - Excel / CSV
 
-💡 Key Insights
+## 📌 Business Impact
+This dashboard helps leadership quickly identify high-performing regions and seasonal sales patterns for better decision-making.
+
+
+## 💡 Key Insights
 - West region contributes the highest sales
 - Technology category shows the highest profitability
 - Sales peak during the last quarter of the year
 
-📷 Dashboard Preview
-![Sales Dashboard](Sales Dashboard.png)
+## 📷 Dashboard Preview
+![Sales Dashboard](Sales_Dashboard.png)
 
-🔗 Tableau Public Link
+## 🔗 Tableau Public Link
 https://public.tableau.com/app/profile/t.prathyusha.reddy/vizzes

@@ -24,6 +24,7 @@ This dashboard analyzes sales performance across regions, product categories, an
 - Sales peak during the last quarter of the year
 
 📷 Dashboard Preview
+![Sales Dashboard](Sales Dashboard.png)
 
 🔗 Tableau Public Link
 https://public.tableau.com/app/profile/t.prathyusha.reddy/vizzes
